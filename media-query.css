@@ -1,0 +1,26 @@
+/* Estilos para dispositivos de tela grande (computadores e tablets) */
+@media (min-width: 768px) {
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('gasoline_background.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  
+  /* Estilos para dispositivos de tela pequena (celulares) */
+  @media (max-width: 767px) {
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('gasoline_backgroundMB.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: repeat;
+    }
+  }
+  
