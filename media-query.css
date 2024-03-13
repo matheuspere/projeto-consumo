@@ -4,7 +4,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('gasoline_background.jpg');
+      background-image: url('gasoline_background2.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -17,10 +17,10 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('gasoline_backgroundMB.jpg');
+      background-image: url('person-spending-time-gas-stationMB.jpg');
       background-size: cover;
       background-position: center;
-      background-repeat: repeat;
+      background-repeat: no-repeat;
     }
   }
   

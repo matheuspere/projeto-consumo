@@ -2,7 +2,7 @@
 
 
 html body {
-    background-image: url(gasoline_background.jpg);
+    background-image: url('gasoline_background2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@ body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background-image: url('gasoline_background.jpg'); /* Caminho para a imagem de fundo */
+        background-image: url('gasoline_background2.jpg'); /* Caminho para a imagem de fundo */
         background-size: cover; /* Ajusta o tamanho da imagem para cobrir toda a área do corpo */
         background-position: center; /* Centraliza a imagem */
         background-repeat: no-repeat; /* Evita a repetição da imagem */
@@ -24,6 +24,8 @@ body {
     text-align: center;
     width: 60%;
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
     background-color: #004324;
     color: #fff9f9;
     
@@ -32,6 +34,7 @@ body {
   form {
     max-width: 400px;
     margin: 0 auto;
+    margin-bottom: 20px;
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
