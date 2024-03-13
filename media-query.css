@@ -5,7 +5,7 @@
       margin: 0;
       padding: 0;
       background-image: url('gasoline_background2.jpg');
-      background-size: cover;
+      background-size: auto;
       background-position: center;
       background-repeat: no-repeat;
     }
@@ -18,7 +18,8 @@
       margin: 0;
       padding: 0;
       background-image: url('person-spending-time-gas-stationMB.jpg');
-      background-size: cover;
+      
+      background-size: auto;
       background-position: center;
       background-repeat: no-repeat;
     }
